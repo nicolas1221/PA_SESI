@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.quadrado{
+    height: 250px;
+    width: 250px;
+    background-color:cadetblue;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+body{
+    height: 200vh;
+}
+
+.container{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
